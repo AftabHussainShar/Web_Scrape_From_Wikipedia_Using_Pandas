@@ -1,3 +1,18 @@
+# Aftab Hussain's Coding Playground 🚀
+
+Welcome to my coding playground! 👋 I'm Aftab Hussain, and I love exploring the vast world of programming. Here, you'll find snippets, projects, and coding adventures.
+
+## Contact Information
+
+Feel free to reach out to me via email:
+
+📧 **Email:** A03003132335@gmail.com
+
+## About Me
+
+I'm passionate about Data Science projects.
+
+
 # Web_Scrape_From_Wikipedia_Using_Pandas
 ## 1: Install the necessary libraries such as Pandas, requests, and BeautifulSoup. You can do this by running the following command in your command prompt or terminal.
 ## 2: Import the Pandas library by adding the following line of code at the beginning of your Python script.
